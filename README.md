@@ -1,4 +1,4 @@
-This book deals with pratical Git matters.
+This book addresses practical Git matters.
 
 ## Chapter 1: Git
 
