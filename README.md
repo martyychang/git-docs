@@ -1,4 +1,4 @@
-This book addresses practical Git matters.
+This book addresses practical Git matters for dummies.
 
 ## Chapter 1: Git
 
