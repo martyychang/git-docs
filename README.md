@@ -1,9 +1,5 @@
-This book addresses practical Git matters for dummies.
+This book addresses practical Git matters for teammates new to version control. If you're being asked to learn Git for your current project, and you're thinking, "Damn, why me? Why Git?" this is the perfect book for you.
 
-## Chapter 1: Git
+This repository is structured for [compatibility with Leanpub][1], although it's not published yet.
 
-What is Git, you ask? Try asking Google.
-
-## Chapter 2: GitHub
-
-What is GitHub, you ask? Try https://github.com
+[1]: https://leanpub.com/help/getting_started_sync_github
