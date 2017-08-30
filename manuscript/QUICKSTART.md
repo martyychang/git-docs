@@ -44,6 +44,12 @@ git clone https://github.com/martyychang/git-docs.git
 ```
 
 This will create a directory named "git-docs" in your current directory.
+To perform Git operations in our git-docs project, you now need to
+drill into this new directory.
+
+```sh
+cd git-docs
+```
 
 ### Figure out your integration branch
 
