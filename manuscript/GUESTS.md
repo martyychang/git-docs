@@ -6,6 +6,9 @@
 
 "I'm Git'ner done"
 -- MA
+
 "The Quick Brown Fox Jumped Over the Lazy Dog"
 -- FJK
-Rasheed Alhassan "lorem ipsum papa"
+
+"lorem ipsum papa"
+-- Rasheed Alhassan
