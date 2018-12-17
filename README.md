@@ -8,3 +8,5 @@ This repository is structured for [compatibility with Leanpub][1], although it's
 ## Issue #15
 
 Issue #15 is a critical determinant of what a feasible Git workflow is for multiple teams following an agile principle of regular deployments to **production**.
+
+Everyone wants to develop all the time, non-stop. That's what it means to have freedom from code freezes!
